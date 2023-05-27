@@ -8,7 +8,13 @@ Qualquer dúvida acerca do uso de containers ou sobre o Docker em geral, veja es
 
 Todo o gerenciamento básico deste ambiente é feito por meio do script `mongo`.
 
-Recomenda-se que ao baixar este repositório pela primeira vez acesse o diretório `/container` e execute o comando:
+É importante que antes de tudo você forneça permissão para execução do script, você pode fazer isto com este comando:
+
+```bash
+chmod 777 mongo
+```
+
+Recomenda-se que ao baixar este repositório pela primeira vez acesse o diretório `/container` e execute:
 
 ```bash
 ./mongo
