@@ -2,7 +2,7 @@
 
 Este repositório possui um arquivo Dockerfile com o script que automatiza a execução de um ambiente containerizado com mongodb.
 
-Qualquer dúvida acerca do uso de containers ou sobre o Docker em geral, veja esse meu outro [repositório](https://github.com/Guilherme-07062002/EstudosDocker.git)
+Qualquer dúvida acerca do uso de containers ou sobre o Docker em geral, veja esse meu [artigo](https://gist.github.com/Guilherme-07062002/0339215a14c927faf468732405d92231) aonde me aprofundo mais sobre o assunto.
 
 ## Primeira execução
 
